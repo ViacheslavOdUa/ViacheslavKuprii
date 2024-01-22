@@ -7,7 +7,7 @@ I'm a beginner web developer from beautiful city Odessa in Ukraine. Started my c
 Now I'm studying a new library, React.
 
 
-Skills:  / REACT / JS / HTML5 / CSS3 / Redux / SCSS / SASS / Figma / JSON / TypeScript / Git / JSON / 
+Skills:  / (https://th.bing.com/th/id/R.2bee11a830bacc5ae9006df56b20c33a?rik=nXUBy4boCTrW8w&pid=ImgRaw&r=0) REACT / JS / HTML5 / CSS3 / Redux / SCSS / SASS / Figma / JSON / TypeScript / Git / JSON / 
 
 
 
