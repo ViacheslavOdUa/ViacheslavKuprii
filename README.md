@@ -6,6 +6,9 @@
 I'm a beginner web developer from beautiful city Odessa in Ukraine. Started my career in 2022 with courses on HTML5, CSS3, JS. Now I'm studying at ONPU and continue to learn programming.
 Now I'm studying a new library, React.
 
+
+MY SKILLS: 
+
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
