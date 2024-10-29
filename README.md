@@ -2,8 +2,7 @@
 ### Hi there 👋, My name is Viacheslav
 #### I'm glad to see everyone here!
 
-I'm a beginner web developer from beautiful city Odessa in Ukraine. Started my career in 2022 with courses on HTML5, CSS3, JS. Now I'm studying at ONPU and continue to learn programming.
-Now I'm studying a new library, React.
+I'm a beginner web developer from beautiful city Odessa in Ukraine
 
 
 MY SKILLS: 
