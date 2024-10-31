@@ -6,7 +6,6 @@ I'm a beginner web developer from beautiful city Odessa in Ukraine
 
 
 MY SKILLS: 
-
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
@@ -34,7 +33,7 @@ MY SKILLS:
   <a href="mailto:1aosikup1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/slavikkup">
+  <a href="https://t.me/viacheslavkup">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
