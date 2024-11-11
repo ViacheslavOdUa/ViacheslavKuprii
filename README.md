@@ -18,7 +18,6 @@ MY SKILLS:
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img alt="Redux-Saga" src="https://img.shields.io/badge/redux-saga-593D88?style=for-the-badge&logoColor=white"  />
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/redux-thunk-593D88?style=for-the-badge&logoColor=white"  />
 <img alt="Redux-Toolkit" src="https://img.shields.io/badge/redux-toolkit-593D88?style=for-the-badge&logoColor=white"  />
 <img alt="React-hook-form" src="https://img.shields.io/badge/react%20hook%20form-EC5990?style=for-the-badge&logoColor=white&logo=react-hook-form" />
