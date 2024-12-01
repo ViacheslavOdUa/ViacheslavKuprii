@@ -1,4 +1,4 @@
-# ViacheslavKuprii
+# Viacheslav Kuprii
 ### Hi there 👋, My name is Viacheslav
 #### I'm glad to see everyone here!
 
